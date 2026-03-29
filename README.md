@@ -74,8 +74,8 @@ A full Optuna study was performed to tune:
 
 ### Physics-Informed Post-Processing
 Instead of trusting raw model outputs, a hierarchy was enforced:
-- GDM \leq Total
-- Green \leq GDm
+- GDM ≤ Total
+- Green ≤ GDm
 - Derived values (Dead and Clover) were calculated from the cleaned primary predictions to ensure logical consistency.
 
 Prediction on the test sample image:
