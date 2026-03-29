@@ -92,13 +92,9 @@ Prediction on the test sample image:
 
 ## Citation
 
-@misc{csiro-biomass,
-    author = {Qiyu Liao and Dadong Wang and Rhys Pirie and Joshua Whelan and Rebecca Haling and Jiajun Liu and Rizwan Khokher and Xun Li and Martyna Plomecka and Addison Howard},
-    title = {CSIRO - Image2Biomass Prediction},
-    year = {2025},
-    howpublished = {\url{https://kaggle.com/competitions/csiro-biomass}},
-    note = {Kaggle}
-}
+Qiyu Liao, Dadong Wang, Rhys Pirie, Joshua Whelan, Rebecca Haling, Jiajun Liu, Rizwan Khokher, Xun Li, Martyna Plomecka, and Addison Howard. CSIRO - Image2Biomass Prediction. https://kaggle.com/competitions/csiro-biomass, 2025. Kaggle.
+
+
 
 
 
